@@ -1,0 +1,13 @@
+{
+  "name": "topojson.v0.min",
+  "_cacheHeaders": {
+    "ETag": "W/\"5d159928-f6e\"",
+    "Last-Modified": "Fri, 28 Jun 2019 04:35:52 GMT",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"5d15992",
+  "main": "index.js",
+  "_source": "http://d3js.org/topojson.v0.min.js",
+  "_target": "*",
+  "_originalSource": "http://d3js.org/topojson.v0.min.js"
+}
